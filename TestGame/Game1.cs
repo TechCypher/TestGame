@@ -1,12 +1,13 @@
-﻿using Microsoft.Xna.Framework;
+﻿using System;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using System;
 using MonoGame.Extended.Tiled;
 using MonoGame.Extended.Content.Pipeline;
-using TiledSharp;
 using MonoGame.Extended.Sprites;
 using MonoGame.Extended.TextureAtlases;
+using TiledSharp;
+
 
 namespace TestGame
 {
@@ -18,13 +19,16 @@ namespace TestGame
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         MonoGame.Extended.ViewportAdapters.ViewportAdapter viewport;
-        TmxMap map;
+        //MonoGame.Extended.Tiled.TiledMap map = new TiledMap("Map1", 600, 400, 32, 32, TiledMapTileDrawOrder.LeftDown, TiledMapOrientation.Isometric); 
+        MonoGame.Extended.Content.Pipeline.Tiled.TiledMapImporter mapImporter = new MonoGame.Extended.Content.Pipeline.Tiled.TiledMapImporter();
+        Microsoft.Xna.Framework.Content.Pipeline.ContentImporterContext k;
+        MonoGame.Extended.Content.Pipeline.Tiled.TiledMapContent map;
+        TmxMap makp;
         Texture2D tileset;
         int tileWidth;
         int tileHeight;
         int tilesetTilesWide;
         int tilesetTilesHigh;
-        
         
 
         public Game1()
@@ -43,9 +47,9 @@ namespace TestGame
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
             base.Initialize();
             this.Window.Position = new Point(100, 75);
+            map = mapImporter.Import("Content\\map.tmx", k);
         }
 
         /// <summary>
@@ -59,7 +63,8 @@ namespace TestGame
             //TODO Fix mapImport function
             //mapImport.Import("Content/map.tmx", );
             // TODO: use this.Content to load your game content here
-            map = new TmxMap("Content/map.tmx");
+            
+            //mapj = new TmxMap("Content/map.tmx");
             tileset = Content.Load<Texture2D>(map.Tilesets[0].Name.ToString());
             tileWidth = map.Tilesets[0].TileWidth;
             tileHeight = map.Tilesets[0].TileHeight;
@@ -106,7 +111,7 @@ namespace TestGame
 
             spriteBatch.Begin();
 
-            for (var i = 0; i < map.Layers[0].Tiles.Count; i++)
+            /*for (var i = 0; i < map.Layers[0].Tiles.Count; i++)
             {
                 int gid = map.Layers[0].Tiles[i].Gid;
 
@@ -124,6 +129,7 @@ namespace TestGame
                     spriteBatch.Draw(tileset, new Rectangle((int)x, (int)y, tileWidth, tileHeight), tilesetRec, Color.White);
                 }
             }
+            */
             spriteBatch.End();
             base.Draw(gameTime);
         }
