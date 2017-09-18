@@ -1,0 +1,91 @@
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TestGame.exe
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TestGame.pdb
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.csprojResolveAssemblyReference.cache
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Content\characters.xnb
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Animations.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Graphics.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Gui.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Input.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Tiled.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TiledSharp.dll
+P:\# GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Content\characters.xnb
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TestGame.exe
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TestGame.pdb
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Animations.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Graphics.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Gui.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Input.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Tiled.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TiledSharp.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.csprojResolveAssemblyReference.cache
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Content\map.tmx
+K:\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+K:\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Content\characters.xnb
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Content\map.tmx
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Content\Content.mgcb
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TestGame.exe
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TestGame.pdb
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Animations.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Graphics.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Gui.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Input.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Tiled.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\TiledSharp.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+K:\Monogame\TestGame\TestGame\obj\x86\Debug\TestGame.csprojResolveAssemblyReference.cache
+K:\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Content.Pipeline.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\Content\Content.mgcb
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Extended.Content.Pipeline.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.Content.Pipeline.dll
+P:\GAME DEV\Game Stuff\Monogame\TestGame\TestGame\bin\Windows\x86\Debug\MonoGame.Framework.Content.Pipeline.xml
